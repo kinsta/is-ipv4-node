@@ -1,4 +1,4 @@
-# is-ipv4 for Node.js
+![is-ipv4-node Logo][logo]
 
 Check if `String` is an IPv4 address.
 
@@ -47,6 +47,8 @@ $ npm test
 ## License
 
 Distributed under the [MIT License](LICENSE).
+
+[logo]: https://cldup.com/R59vtF5-0x.png
 
 [npm-package-url]: https://npmjs.org/package/is-ipv4-node
 
