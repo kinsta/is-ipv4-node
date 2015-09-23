@@ -22,10 +22,10 @@ Check if `String` is an IPv4 address.
 ## Usage Example
 
 ```javascript
-var isIPv4 = require("is-ipv4-node");
+var isIPv4 = require('is-ipv4-node');
 
-console.log(isIPv4("46.19.37.108"));
-console.log(isIPv4("Hello World!"));
+console.log(isIPv4('46.19.37.108'));
+console.log(isIPv4('Hello World!'));
 ```
 
 ***
