@@ -5,10 +5,10 @@
   "keywords": [
     "check",
     "validate",
-    "string",
     "ip",
     "ipv4",
     "address",
+    "string",
     "node"
   ],
   "homepage": "https://github.com/AnatoliyGatt/is-ipv4-node",
