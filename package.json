@@ -4,6 +4,7 @@
   "description": "Check if String is an IPv4 address.",
   "keywords": [
     "check",
+    "validate",
     "string",
     "ip",
     "ipv4",
