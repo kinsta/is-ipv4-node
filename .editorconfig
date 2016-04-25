@@ -6,9 +6,9 @@ end_of_line = lf
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-[*.{md,markdown}]
+[*.md]
 trim_trailing_whitespace = false
 
-[{lib,test}/**.js]
+[*.js]
 indent_style = space
 indent_size = 2
